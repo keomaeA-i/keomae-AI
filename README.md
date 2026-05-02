@@ -18,4 +18,5 @@
 # 그 외/ ummmmmm
 
 문의 : forzipe@gmail.com
+
 버그문의는 : lssues로
