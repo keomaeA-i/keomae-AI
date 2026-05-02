@@ -18,4 +18,5 @@ dangjaeng keomaebot open-source
 # ummmmmm
 
 문의 : forzipe@gmail.com
-bug : lssues로
+
+bug : lssues pls
