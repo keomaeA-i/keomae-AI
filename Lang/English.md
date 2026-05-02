@@ -1,6 +1,8 @@
 # Keomae bot
 dangjaeng keomaebot open-source
 
+key : 26kor(forzipe)
+
 # Language
 > [(English) >](https://github.com/keomaeA-i/keomae-AI/blob/main/Lang/English.md)
 >
