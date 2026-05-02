@@ -1,6 +1,8 @@
 # 科马前机器人
 dangjaeng keomaebot 开源
 
+key : 26kor(forzipe)
+
 # 语言
 [(英文) >](https://github.com/keomaeA-i/keomae-AI/blob/main/Lang/English.md)
 >
