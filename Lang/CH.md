@@ -15,7 +15,9 @@ key : 26kor(forzipe)
 
 3. 机器人文件夹下载（请下载版本）
 
-4. 使用
+4. 내장저장공간/Chatbot/Botdata/(파일)
+
+5. use
 
 # 嗯嗯
 
