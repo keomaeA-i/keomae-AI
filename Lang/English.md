@@ -15,7 +15,9 @@ key : 26kor(forzipe)
 
 3. bot folder download (release download pls)
 
-4. use
+4. 내장저장공간/Chatbot/Botdata/(파일)
+
+5. use !
 
 # ummmmmm
 
