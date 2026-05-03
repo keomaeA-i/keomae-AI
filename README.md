@@ -15,7 +15,9 @@
 
 key : 26kor(forzipe)
 
-4. 사용
+4. 내장저장공간/Chatbot/Botdata/(파일)
+
+5. 사용
 
 # 그 외/ ummmmmm
 
