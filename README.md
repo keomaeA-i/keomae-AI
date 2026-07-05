@@ -1,6 +1,9 @@
 # Keomae bot/커매봇
 단자응 커매봇 오픈소스
 
+# 새 안내
+> 현재 자바스크립트로 변경되면서 아카이브화 되었습니다.
+
 # 언어/Language
 > [영문판(English) >](https://github.com/keomaeA-i/keomae-AI/blob/main/Lang/English.md)
 >
